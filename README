@@ -1,4 +1,4 @@
-Interacting with TMBD API .
+Interacting with https://api.themoviedb.org/ API .
 Using:
  Retrofit,
  Dagger2,
