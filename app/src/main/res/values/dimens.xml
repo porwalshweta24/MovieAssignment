@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Toolbar -->
+    <dimen name="toolbar_title_margin_start">60dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+<!--
+    <PopularFragmentment &ndash;&gt;
+-->
+    <dimen name="poster_corner_radius">4dp</dimen>
+    <dimen name="poster_corner_margin">0dp</dimen>
+    <dimen name="movie_overview_text_size">12sp</dimen>
+    <dimen name="movie_overview_side_margin">15dp</dimen>
+    <dimen name="movie_overview_top_bottom_margin">10dp</dimen>
+    <dimen name="movie_poster_margin_top">10dp</dimen>
+    <dimen name="movie_poster_height">230dp</dimen>
+    <dimen name="movie_title_margin">15dp</dimen>
+    <dimen name="movie_card_width">150dp</dimen>
+
+    <!-- NoInternetFragment -->
+    <dimen name="no_connection_ic_margin_top">180dp</dimen>
+    <dimen name="try_again_text_margin_top">15dp</dimen>
+    <dimen name="can_not_load_results_text_margin_top">15dp</dimen>
+
+    <!-- Generic -->
+    <dimen name="clickable_text_padding">5dp</dimen>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="recycler_view_top_and_bottom_padding">4dp</dimen>
+    <dimen name="distance_between_recycler_view_items">5dp</dimen>
+    <dimen name="no_results_found_text_max_width">300dp</dimen>
+    <dimen name="no_results_found_text_margin_top">10dp</dimen>
+    <dimen name="dissatisfied_ic_margin_top">60dp</dimen>
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

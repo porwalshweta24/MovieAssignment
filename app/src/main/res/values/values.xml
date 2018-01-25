@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_text_size">20sp</dimen>
+    <dimen name="body_text_size">14sp</dimen>
+    <dimen name="subheading_text_size">16sp</dimen>
+    <integer name="movie_list_column_number">1</integer>
+</resources>

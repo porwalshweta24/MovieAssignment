@@ -1,0 +1,12 @@
+Sample code, interacting with TMBD API.
+Using:
+ Retrofit,
+ Dagger2,
+ RxJava2,
+ Picasso,
+ Material Design,
+ Cardviews,
+ RecyclerViews,
+ Butterknife,
+ JUnit testing...
+
