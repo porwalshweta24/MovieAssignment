@@ -43,7 +43,7 @@
                 android:layout_marginTop="@dimen/movie_poster_margin_top"
                 android:orientation="vertical">
 
-                <app.awok.utils.WrapContentDraweeView
+                <app.movies.utils.WrapContentDraweeView
                     android:id="@+id/card_movie_poster"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

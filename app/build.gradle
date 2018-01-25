@@ -18,7 +18,7 @@ repositories {
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "mguell.sample_tmbd"
+        applicationId "app.movies"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
@@ -59,8 +59,10 @@ dependencies {
     implementation 'com.jakewharton:butterknife:8.5.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
 
-    //Images
+    //material serch view
+    compile 'com.miguelcatalan:materialsearchview:1.4.0'
 
+    //Images
     compile 'com.facebook.fresco:fresco:1.1.0'
 
 

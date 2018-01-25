@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Awok</string>
+    <string name="app_name">Movies</string>
     <string name="tmbd_movies">Movies</string>
     <string name="search">Search</string>
-    <string name="sample_overview">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="sample_overview">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
     <string name="sample_title_and_year">MovieName, 2018</string>
     <string name="no_overview_available">No overview available for this movie.</string>
     <string name="query_text_key">queryText</string>
@@ -15,7 +15,6 @@
     <string name="drawer_favorites">Favorite Movies</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
 
     <!-- menu items and toolbar -->
     <string name="dialog_no_favorites_set">You have not yet chosen any favorite movies.  Press the heart button when you like a movie and want to save it to your favorites list.</string>
